@@ -3,7 +3,7 @@
 Sitio web corporativo desarrollado para una boutique de repostería artesanal premium.  
 El proyecto combina diseño elegante, experiencia de usuario optimizada y buenas prácticas modernas de desarrollo frontend.
 
-🔗 Demo en producción: [https://brownlesboutique.com](https://brownles.vercel.app/)
+🔗 Demo en producción: [https://brownles.vercel.app/](https://brownles.vercel.app/)
 
 ---
 
