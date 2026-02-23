@@ -6,11 +6,11 @@ const NotFound = () => {
   return (
     <>
       <SEO
-        title="Contacto | Brownles Boutique"
-        description="Contáctanos para crear momentos especiales con nuestros postres artesanales. Síguenos en redes sociales."
-        canonical="https://tudominio.com/contact"
-        ogImage="https://tudominio.com/og-contact.jpg"
+        title="Página no encontrada"
+        description="La página que buscas no existe. Descubre postres artesanales elaborados con pasión y detalle."
+        canonical="https://brownlesboutique.com/"
       />
+
       <div className="min-h-screen flex items-center justify-center px-6">
         <ScrollReveal>
           <div className="text-center space-y-10">

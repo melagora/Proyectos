@@ -6,10 +6,9 @@ const Contact = () => {
   return (
     <>
       <SEO
-        title="Contacto | Brownles Boutique"
+        title="Contacto"
         description="Contáctanos para crear momentos especiales con nuestros postres artesanales. Síguenos en redes sociales."
-        canonical="https://tudominio.com/contact"
-        ogImage="https://tudominio.com/og-contact.jpg"
+        canonical="https://brownlesboutique.com/"
       />
       <div className="space-y-28">
         {/* HERO */}

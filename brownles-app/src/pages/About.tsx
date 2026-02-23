@@ -5,10 +5,9 @@ const About = () => {
   return (
     <>
       <SEO
-        title="Nuestra Historia | Brownles Boutique"
+        title="Nuestra Historia"
         description="Conoce la esencia de Brownles Boutique: pasión por el detalle, dedicación artesanal y compromiso con la excelencia en cada creación dulce."
-        canonical="https://tudominio.com/about"
-        ogImage="https://tudominio.com/og-about.jpg"
+        canonical="https://brownlesboutique.com/"
       />
 
       <div className="space-y-28">

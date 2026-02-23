@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import products from "../data/products";
 import ProductCard from "../components/ProductCard";
 import ScrollReveal from "../components/ScrollReveal";
@@ -8,10 +7,9 @@ const Products = () => {
   return (
     <>
       <SEO
-        title="Productos Artesanales | Brownles Boutique"
-        description="Descubre nuestra colección de postres artesanales elaborados con ingredientes seleccionados y dedicación absoluta al detalle."
-        canonical="https://tudominio.com/productos"
-        ogImage="https://tudominio.com/og-products.jpg"
+        title="Nuestros Productos"
+        description="Descubre la exquisita variedad de postres artesanales de Brownles Boutique. Desde pasteles personalizados hasta galletas decoradas, cada creación es una obra maestra de sabor y diseño. Perfectos para cualquier ocasión especial o simplemente para consentirte."
+        canonical="https://brownlesboutique.com/"
       />
 
       <div className="space-y-20">

@@ -10,10 +10,9 @@ const Home = () => {
   return (
     <>
       <SEO
-        title="Brownles Boutique | Postres Artesanales Premium"
-        description="Descubre postres artesanales elaborados con ingredientes seleccionados. Brownles Boutique transforma momentos simples en experiencias memorables."
+        title="Postres Artesanales Premium"
+        description="Descubre postres artesanales elaborados con ingredientes seleccionados, diseñados para transformar momentos simples en experiencias memorables."
         canonical="https://brownlesboutique.com/"
-        ogImage="https://brownlesboutique.com/og-home.jpg"
       />
 
       <div className="space-y-20">
